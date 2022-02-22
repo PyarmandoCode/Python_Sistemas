@@ -1,0 +1,4 @@
+en ves de opencv-python
+opencv-python-headless
+
+en el archivo de requerimientos y funciono
